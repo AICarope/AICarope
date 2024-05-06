@@ -10,6 +10,7 @@ Dynamic AI and XR enthusiast with 10+ years in healthcare, passionately supporti
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
 * 🧠  I'm learning XR (VR and AR) and Python for Data Science and Machine Learning
 * 🤝  I'm open to collaborating on AI and XR for Healthcare
+* 🧠  Passionate to solve real-world problems and drive positive social change through technoclogy
 
 ### Skills
 
