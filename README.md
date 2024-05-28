@@ -8,8 +8,8 @@ Dynamic AI and XR enthusiast with 10+ years in healthcare, passionately supporti
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
-* 🧠  I'm learning XR (VR and AR) and Python for Data Science and Machine Learning
-* 🤝  I'm open to collaborating on AI and XR for Healthcare
+* 🧠  Foundations in XR (VR and AR), Python for Data Science and Machine Learning, GenAI, AI
+* 🤝  I'm open to collaborating on AI for Healthcare
 * 🎯  Passionate to solve real-world problems and drive positive social change through technology
 
 ### Skills
