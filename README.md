@@ -4,7 +4,7 @@ Hi 👋 My name is Carmen Pena
 Technical Product Manager
 -------------------------
 
-Dynamic AI and XR enthusiast with 10+ years in healthcare, passionately supporting digital innovations.
+I am a dynamic and experienced Product Manager based in Toronto, Canada, with a passion for leveraging patient experience with technology advancements. My expertise lies in building and launching usable products, solving complex problems, and driving innovation in the fields of technology, artificial intelligence, science, and medicine.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
