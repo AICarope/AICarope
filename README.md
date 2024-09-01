@@ -19,6 +19,15 @@ I am a dynamic and experienced Product Manager based in Toronto, Canada, with a 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+**Information Technology:** Generative AI, Python, Data Science, Machine Learning, Postman, API, JSON, 
+FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC in Agile + Waterfall. Libraries (Pandas, Numpy, Seaborn, SciPy, Scikit-Learn). MS Office and Google Suit. Slack, Discord, Visio.
+
+**User Research and Personas:** Apply Design Thinking. Sketching and Wireframing. Iteration with UX teams and product design. Process mapping tools.
+
+**Requirements Definition and Documentation:** Requirements elicitation techniques: interviews, questionaries, brainstorming, use cases and user stories. Tools: Jira, Confluence.
+
+**Languages:** English and Spanish
+
 
 ### Socials
 
