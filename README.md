@@ -8,7 +8,7 @@ I am a dynamic and experienced Product Manager based in Toronto, Canada, with a 
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
-* 🧠  Foundations in XR (VR and AR), Python for Data Science, Machine Learning, GenAI, TensorFLow and AI
+* 🧠  Foundations in XR (VR and AR), Python for Data Science, Machine Learning, GenAI, TensorFlow and AI
 * 🤝  I'm open to collaborating on AI for Healthcare
 * 🎯  Passionate to solve real-world problems and drive positive social change through technology
 
