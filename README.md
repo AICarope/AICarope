@@ -21,7 +21,7 @@ I am a dynamic and experienced Product Manager based in Toronto, Canada, with a 
 </p>
 
 **Information Technology:** Generative AI, Python, Data Science, Machine Learning, Postman, API, JSON, 
-FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC in Agile + Waterfall. Libraries (Pandas, Numpy, Seaborn, SciPy, Scikit-Learn). MS Office and Google Suit. Slack, Discord, Visio.
+FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC in Agile + Waterfall. Libraries (Pandas, Numpy, Seaborn, SciPy, Scikit-Learn). MS Office and Google Suit. Slack, Discord, Visual Studio.
 
 **User Research and Personas:** Apply Design Thinking. Sketching and Wireframing. Iteration with UX teams and product design. Process mapping tools.
 
