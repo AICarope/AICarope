@@ -3,7 +3,7 @@ Hi 👋 My name is Carmen Pena
 
 Technical Product Manager
 -------------------------
-AI Product Manager | Machine Learning | Deep Learning | GenAI | Driving Positive Social Change through Technology
+**AI Product Manager | Machine Learning | Deep Learning | GenAI | Driving Positive Social Change through Technology**
 
 I am a dynamic and experienced Product Manager based in Toronto, Canada, with a passion for leveraging patient experience with technology advancements. My expertise lies in building and launching usable products, solving complex problems, and driving innovation in the fields of technology, artificial intelligence and healthcare.
 
