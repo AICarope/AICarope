@@ -40,7 +40,7 @@ I am a dynamic and experienced Product Manager based in Toronto, Canada, with a 
 ![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
 
 
-## Profile Information
+## Tech Stack
 
 | **Category**                      | **Details**                                                                                                                                                    |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
