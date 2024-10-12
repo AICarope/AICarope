@@ -13,7 +13,7 @@ I am a dynamic and experienced Product Manager based in Toronto, Canada, with a 
 * 🤝  I'm open to collaborating on AI for Healthcare
 * 🎯  Passionate to solve real-world problems and drive positive social change through technology
 
-## Tools and Technologies
+# ![Tools Icon](https://example.com/icon.png)Tools and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white)
