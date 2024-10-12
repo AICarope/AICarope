@@ -48,8 +48,6 @@ I am a dynamic and experienced Product Manager based in Toronto, Canada, with a 
 | **User Research and Personas**     | Apply Design Thinking, Sketching, Wireframing, Iteration with UX teams, Product Design, Process Mapping Tools                                                   |
 | **Requirements Definition and Documentation** | Requirements elicitation techniques: interviews, questionnaires, brainstorming, use cases, user stories. Tools: Jira, Confluence                             |
 | **Languages**                      | English, Spanish                                                                                                                                               |
-| **Socials**                        | Add links to your socials here                                                                                                                                 |
-
 
 ### Socials
 
