@@ -41,7 +41,6 @@ I am a dynamic and experienced Product Manager based in Toronto, Canada, with a 
 
 
 ## Tech Stack
-# ![Tools Icon](https://example.com/icon.png)Tech Stack
 
 | **Category**                      | **Details**                                                                                                                                                    |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
