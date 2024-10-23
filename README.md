@@ -5,7 +5,7 @@ Technical Product Manager
 -------------------------
 **AI Product Manager | Machine Learning | Deep Learning | GenAI | Driving Positive Social Change through Technology**
 
-I am a dynamic and experienced Product Manager based in Toronto, Canada, with a passion for leveraging patient experience with technology advancements. My expertise lies in building and launching usable products, solving complex problems, and driving innovation in the fields of technology, artificial intelligence and healthcare.
+I am a dynamic and experienced Product Manager based in Toronto, Canada, with a passion for leveraging user experience with technology advancements. My expertise lies in building and launching innovative products, solving complex problems, and driving digital transformation across industries. With a strong focus on artificial intelligence and emerging technologies. 
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
