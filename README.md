@@ -58,3 +58,14 @@ I am a dynamic and experienced Product Manager based in Toronto, Canada, with a 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AICarope"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AICarope&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### GitHub Streak Stats
+
+<a href="http://www.github.com/AICarope" target="_blank">View My GitHub Profile</a>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AICarope&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
+  alt="GitHub streak stats for AICarope"
+/>
+
+
