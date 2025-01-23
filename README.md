@@ -5,7 +5,7 @@ Technical Product Manager
 -------------------------
 **AI Product Manager | Machine Learning | Deep Learning | GenAI | Driving Positive Social Change through Technology**
 
-Results-driven and dynamic Technical Product Manager with over 10 years of expertise in product lifecycle, business analysis methodologies (Agile and Waterfall), and leadership. Proven track record in delivering impactful products across SaaS, Biotech, and eHealth industries. Passionate about leveraging AI expertise to drive innovation, enhance automation, and improve user experiences in digital transformation initiatives.
+Results-driven, enthusiastic and dynamic Technical Product Manager with over 10 years of expertise in product lifecycle, business analysis methodologies (Agile and Waterfall), and leadership. Proven track record in delivering impactful products across SaaS, Biotech, and eHealth industries. Passionate about leveraging AI expertise to drive innovation, enhance automation, and improve user experiences in digital transformation initiatives.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
