@@ -46,7 +46,7 @@ Results-driven, enthusiastic, and dynamic Technical Product Manager with over 10
 
 | **Category**                      | **Details**                                                                                                                                                    |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Information Technology**         | Generative AI, Data Sicence, Machine Learning, Postman, API, JSON, FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC (Agile + Waterfall). Libraries: Pandas, Numpy, Seaborn, SciPy, Scikit-Learn. TensorFlow, Karas, MS Office, Google Suite, Slack, Discord, Visio. |
+| **Information Technology**         | Generative AI, Data Sicence, Machine Learning, Postman, API, JSON, FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC (Agile + Waterfall). Libraries: Pandas, Numpy, Seaborn, SciPy, Scikit-Learn. TensorFlow, Keras, MS Office, Google Suite, Slack, Discord, Visio. |
 | **User Research and Personas**     | Apply Design Thinking, Sketching, Wireframing, Iteration with UX teams, Product Design, Process Mapping Tools                                                   |
 | **Requirements Definition and Documentation** | Requirements elicitation techniques: interviews, questionnaires, brainstorming, use cases, user stories. Tools: Jira, Confluence                             |
 | **Languages**                      | English, Spanish                                                                                                                                               |
