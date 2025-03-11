@@ -9,7 +9,7 @@ Results-driven, enthusiastic, and dynamic Technical Product Manager with over 10
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
-* 🧠  Foundations in XR (VR and AR), Python for Data Science, Machine Learning, AI, Deep Learning, GenAI, TensorFlow and Keras
+* 🧠  Foundations in XR (VR and AR), Python for Data Science, AI, Machine Learning, Neural Networks, Deep Learning, GenAI, TensorFlow and Keras
 * 🤝  I'm open to collaborating on AI
 * 🎯  Passionate to solve real-world problems and drive positive social change through technology
 
