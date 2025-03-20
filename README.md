@@ -61,4 +61,9 @@ Results-driven, enthusiastic, and dynamic Technical Product Manager with over 10
 
 <a href="http://www.github.com/AICarope"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AICarope&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AICarope&theme=dark&hide_border=true)
+### My GitHub Stats
+
+<a href="https://github.com/AICarope">
+  <img src="https://github-readme-stats.vercel.app/api?username=AICarope&show_icons=true&theme=radical" />
+</a>
+
