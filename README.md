@@ -1,7 +1,7 @@
 Hi 👋 My name is Carmen Pena
 ============================
 
-Technical Product Manager
+Artificial Intelligence
 -------------------------
 **Product and Business Leader | Machine Learning | Deep Learning | GenAI | XR/AR/VR | Driving Positive Change through Technologyy**
 
