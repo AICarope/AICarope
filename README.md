@@ -5,7 +5,7 @@ Artificial Intelligence & Emerging Technologies
 -------------------------------------------------
 **Product and Business Leader | Machine Learning | Deep Learning | GenAI | XR/AR/VR | Driving Positive Change through Technologyy**
 
-Results-driven Product and Business Leader with 10+ years of experience across product lifecycle management, business analysis, and cross-functional leadership. Proven track record in delivering impactful products across SaaS, Biotech, and eHealth industries. Passionate about integrating AI with emerging technologies to drive digital transformation, optimize automation, and enhance interactive user experiences.
+Results-driven Product and Business Leader with 8+ years of experience across product lifecycle management, business analysis, and cross-functional leadership. Proven track record in delivering impactful products across SaaS, Biotech, and eHealth industries. Passionate about integrating AI with emerging technologies to drive digital transformation, optimize automation, and enhance interactive user experiences.
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
