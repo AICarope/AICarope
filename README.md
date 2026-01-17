@@ -3,7 +3,7 @@ Hi 👋 My name is Carmen Pena
 
 Technical Product Manager
 -------------------------
-**Product and Business Leader | Machine Learning | Deep Learning | GenAI | XR/AR/VR | Driving Positive Social Change through Technologyy**
+**Product and Business Leader | Machine Learning | Deep Learning | GenAI | XR/AR/VR | Driving Positive Change through Technologyy**
 
 Results-driven Product and Business Leader with 10+ years of experience across product lifecycle management, business analysis, and cross-functional leadership. Proven track record in delivering impactful products across SaaS, Biotech, and eHealth industries. Passionate about integrating AI with emerging technologies to drive digital transformation, optimize automation, and enhance interactive user experiences.
 
