@@ -40,13 +40,17 @@ Results-driven Product and Business Leader with 8+ years of experience across pr
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-003366?style=for-the-badge&logo=databricks&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
 
 
 ## Tech Stack
 
 | **Category**                      | **Details**                                                                                                                                                    |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Information Technology**         | Generative AI, Data Sicence, Machine Learning, Postman, API, JSON, FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC (Agile + Waterfall). Libraries: Pandas, Numpy, Seaborn, SciPy, Scikit-Learn. TensorFlow, Keras, MS Office, Google Suite, Slack, Discord, Visio. |
+| **Information Technology**         | Generative AI, Data Sicence, Machine Learning, Artificial Intlligenc, Postman, API, DW, Cloud, JSON, FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC (Agile + Waterfall). Libraries: Pandas, Numpy, Seaborn, SciPy, Scikit-Learn. TensorFlow, Keras, MS Office, Google Suite, Slack, Discord, Visio. |
 | **User Research and Personas**     | Apply Design Thinking, Sketching, Wireframing, Iteration with UX teams, Product Design, Process Mapping Tools                                                   |
 | **Requirements Definition and Documentation** | Requirements elicitation techniques: interviews, questionnaires, brainstorming, use cases, user stories. Tools: Jira, Confluence                             |
 | **Languages**                      | English, Spanish                                                                                                                                               |
