@@ -9,7 +9,7 @@ Results-driven Product, Business, and Technical Leader with 8+ years of experien
 
 * 🌍  I'm based in Toronto, Canada
 * ✉️  You can contact me at [carope45@hotmail.com](mailto:carope45@hotmail.com)
-* 🧠  Foundations in XR (VR and AR), Python for Data Science, AI, Machine Learning, Neural Networks, Deep Learning, GenAI, TensorFlow and Keras
+* 🧠  Foundations in XR (VR and AR), Python for Data Science, AI, Machine Learning, Neural Networks, Deep Learning, GenAI, TensorFlow, Keras, MLOps
 * 🤝  I'm open to collaborating on AI
 * 🎯  Passionate to solve real-world problems and drive positive change through technology
 
@@ -50,7 +50,7 @@ Results-driven Product, Business, and Technical Leader with 8+ years of experien
 
 | **Category**                      | **Details**                                                                                                                                                    |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Information Technology**         | Generative AI, Data Science, Machine Learning, Artificial Intelligence, Postman, API, DW, Cloud, JSON, FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC (Agile + Waterfall). Libraries: Pandas, Numpy, Seaborn, SciPy, Scikit-Learn. TensorFlow, Keras, MS Office, Google Suite, Slack, Discord, Visio, AWS MLOPs Foundations. |
+| **Information Technology**         | Generative AI, Data Science, Machine Learning, Artificial Intelligence, Postman, API, DW, Cloud, JSON, FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC (Agile + Waterfall). Libraries: Pandas, Numpy, Seaborn, SciPy, Scikit-Learn. TensorFlow, Keras, MS Office, Google Suite, Slack, Discord, Visio, AWS MLOps Foundations. |
 | **User Research and Personas**     | Apply Design Thinking, Sketching, Wireframing, Iteration with UX teams, Product Design, Process Mapping Tools                                                   |
 | **Requirements Definition and Documentation** | Requirements elicitation techniques: interviews, questionnaires, brainstorming, use cases, user stories. Tools: Jira, Confluence                             |
 | **Languages**                      | English, Spanish                                                                                                                                               |
