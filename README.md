@@ -51,7 +51,7 @@ Results-driven Product, Business, and Technical Leader with 8+ years of experien
 | **Category**                      | **Details**                                                                                                                                                    |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Information Technology**         | Generative AI, Data Science, Machine Learning, Artificial Intelligence, Postman, API, DW, Cloud, JSON, FHIR, VS Code, Jupyter Notebook, XR Unity, SQL, SDLC (Agile + Waterfall). Libraries: Pandas, Numpy, Seaborn, SciPy, Scikit-Learn. TensorFlow, Keras, MS Office, Google Suite, Slack, Discord, Visio, AWS MLOps Foundations. |
-| **User Research and Personas**     | Apply Design Thinking, Sketching, Wireframing, Iteration with UX teams, Product Design, Process Mapping Tools                                                   |
+| **User Research and Personas**     | Apply Design, Systems and Platform Thinking, Sketching, Wireframing, Iteration with UX teams, Product Design, Process Mapping Tools. Pipeline Orchestration.                                                   |
 | **Requirements Definition and Documentation** | Requirements elicitation techniques: interviews, questionnaires, brainstorming, use cases, user stories. Tools: Jira, Confluence                             |
 | **Languages**                      | English, Spanish                                                                                                                                               |
 
