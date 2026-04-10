@@ -18,7 +18,7 @@ Results-driven Product, Business, and Technical Leader with 8+ years of experien
 - Translate business needs into **technical requirements**:
   - **Backend:** APIs, data pipelines, data warehousing, integrations, AI/ML systems  
   - **Frontend:** user interfaces (GUI) and user experience flows  
-- Work with cross-functional teams: **engineering, data science, DevOps, UX**  
+- Work with cross-functional teams: **engineering, data science, UX, legal, DevOps**  
 - Deliver **cloud-based AI solutions** in regulated environments  
 
 ## Tools and Technologies
