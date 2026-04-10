@@ -15,7 +15,7 @@ Results-driven Product, Business, and Technical Leader with 8+ years of experien
 
 ## 🚀 What I Do
 - Lead the **AI/ML lifecycle**: data → modeling → deployment → monitoring  
-- Translate business needs into **technical requirements** (APIs, data pipelines, integration, AI systems)  
+- Translate business needs into **technical requirements** (APIs, DW, data pipelines, integration, AI systems)  
 - Work with cross-functional teams: **engineering, data science, DevOps, UX**  
 - Deliver **cloud-based AI solutions** in regulated environments 
 
